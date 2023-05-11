@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Vladislav 👋</a> </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8DBeginner+python+developer+from+Russia%F0%9F%90%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&vCenter=true&multiline=true&width=500&lines=%F0%9F%90%8DBeginner+python+developer+from+Russia%F0%9F%90%8D" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **ML, CV, python, C#**
 
